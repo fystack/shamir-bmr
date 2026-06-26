@@ -1,0 +1,10 @@
+# Compiled binaries
+/sbmr
+/cmd/sbmr/sbmr
+*.exe
+*.out
+
+# Go test / profiling artifacts
+*.test
+*.prof
+coverage.*
